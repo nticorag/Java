@@ -54,4 +54,14 @@ public class Restaurante {
         }
         return costo;
     }
+<<<<<<< HEAD
 }
+
+// AAdasd
+//asdasdfsdf
+///asdfasdf
+
+//asdfa
+=======
+}
+>>>>>>> 8776850e5d1cc75ba9e56576b5b07f23b249e447
