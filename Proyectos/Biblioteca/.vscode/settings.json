@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\Drive\\Mision TIC 2022\\JAVA\\Junit 4.10\\junit-4.10.jar",
+        "e:\\Drive\\Mision TIC 2022\\JAVA\\Proyectos\\mysql-connector-java-8.0.25\\mysql-connector-java-8.0.25\\mysql-connector-java-8.0.25.jar",
+        "Entity/javax.persistence.jar"
+    ]
+}
